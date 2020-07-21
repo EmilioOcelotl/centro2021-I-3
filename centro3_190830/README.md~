@@ -1,0 +1,102 @@
+# Clase 3. Introducción a programación orientada a objetos 
+
+## Paradigmas de la programación orientada a objetos
+
+En el siglo XX, el procesamiento de datos han conformado la base de las ciencias de la computación como disciplina. 
+
+La sintaxis y la forma física de la presentación de información ha sido la prioridad en este campo. 
+
+La programación orientada a objetos, inicio en 1960 con el lenguaje de programación Simula desarrollado por Ole-Johan Dahl y Kristen Nygaard.
+
+En este paradigma, los objetos son los elementos básicos de su ontología. El software se estructura como una colección de objetos que trabajan juntos. 
+
+El núcleo del paradigma de la programación orientada a objetos hace referencia al hecho de que los objetos actuan unos sobre los otros a través del envío de mensajes. 
+
+La diferencia entre la programación orientada a objetos y otros paradigmas de programación es que en la primera, los datos y las operaciones que manipulan estos datos se encuentran en un mismo objeto, en vez de estar separados. 
+
+La POO se diferencia de la programación procedural, cuyo comportamiento está definido por procedimientos, funciones y subrutinas. 
+
+En POO, estos comportamientos están contenidos en los métodos de los objetos. 
+
+Un método es una propiedad básica de una case de objeto, está oculto en el objeto mismo. 
+
+Los métodos pueden ser invocados al enviar un mensaje adecuado al objeto. 
+
+### Objetos
+
+Variables y funciones son bloques que sirven para construir software. Con frecuencia, algunas funciones se utilizan juntas para trabajar con un grupo de variables relacionadas. 
+
+La programación orientada a objetos fue desarrollada para hacer este proceso más explícito: usa objetos y clases como bloques para construir software. 
+
+Una clase define un grupo de métodos (funciones) y campos (variables). Un objeto es una instancia simple de una clase. 
+
+Los campos dentro de los objetos son accesibles por lo general vía sus propios métodos. Esto permite al objeto "ocultar" su complejidad de otras partes del programa. 
+
+Además de proporcionar un modelo conceptual útil, la programación orientada a objetos se convierte en una necesidad cuando un programa incluye muchos elementos o cuando crece en contenido. 
+
+Los objetos pueden proveer un poderoso medio de pensar y estructurar ideas en el código. 
+
+Todo el software escrito en Processing consiste en objetos, pero este hecho se omite, de forma tal que los conceptos de la programación orientada a objetos pueda ser introducida después. 
+
+### Programación orientada a objetos
+
+Un programa modular está compuesto por módulos de código los cuales realizan una tarea específica. 
+
+Las variables son el camino más básico para pensar en el uso de elementos dentro de un programa. Permiten a un solo valor aparecer muchas veces a lo largo del código. También permiten que ese mismo valor pueda cambiar fácilmente. 
+
+De manera similar, las funciones abstraen una posible tarea y permiten usar bloques de código en todo el programa escrito. 
+
+Típicamente nos preocupamos solamente por lo que la función hace, no por cómo funciona. Esto puede ser problemático: el caso de los automóviles, la computadora y la cajanegrización. 
+
+Sin embargo, esto permite que nos enfoquemos en los objetivos del programa y no tanto en la complejidad de su infraestructura. 
+
+## Ejemplo en lenguaje natural
+
+Es posible establecer una analogía entre un objeto en software y artefacto del mundo real. 
+
+Estas analogías nos ayudarán a entender la forma de pensar del mundo de la programación orientada a objetos. 
+
+Atributos: Volumen, frecuencia, banda(AM y FM), encendido/apagado
+
+Métodos: establecerVolumen, establecerFrecuencia, establecerBanda
+
+## Método y atributo vs variable y función
+
+A las variables dentro de un objeto se les llama atributos y a las funciones dentro de un objeto se les llama métodos. En este sentido, un objeto combina datos relacionados (atributos) con acciones y comportamientos relacionados (métodos). 
+
+Métodos y atributos funcionan exactamente como las variables y las funciones de lo que hasta el momento hemos visto en Processing, pero utilizaremos estos nuevos términos para enfatizar que son parte de un objeto. 
+
+Es posible acceder a los métodos y atributos a través del punto (que funge como operador), un periodo establecido entre el nombre del objeto y el nombre de la función dentro del objeto. 
+
+## Discusión
+
+Problemática de la ilusión de objetividad y la representación de la neutralidad. En ciencias de la computación esto está anclado al funcionamiento y la optimización de los sistemas. 
+
+¿Qué pasa cuando esta aproximación contempla la interacción con seres humanos? 
+
+Una posible crítica a este paradigma tiene que ver con el pre-establecimiento de comportamientos y significados. Desde la perspectiva del diseño de software, esto no deja espacio para la duda o la negociación. 
+
+Como usuarios el que algo esté oculto puede ser problemático.
+
+En este sentido, conocer el paradigma puede ser un punto de partida para cambiar el significado de la interacción "lista para usarse"
+
+Usuarios que tienen la capacidad de desplazarse hacia la programación en todo caso se vuelven expertos en escapar a la interacción planeada y de determinar el uso de los programas en su mundo de interacción. 
+
+En este sentido los programas pueden significar pero también pueden ser significados de difentes maneras. 
+
+Aprender a hacer una clase y entender a través de la práctica este paradigma
+
+### String y tipos de datos. 
+
+Los objetos PImage, PFont y String son tipos de datos y cada uno tiene funciones y elementos de datos adicionales únicos. 
+
+Un objeto es la clase String que veremos a continuación.
+
+## Processing
+
+### Explicación String
+
+Un string es una cadena de caracteres, esto es, una secuencia ordenada y finita de elementos que pertenecen a un cierto tipo de lenguaje formal o alfabeto. 
+
+String en Processing como un tipo de dato incluye métodos para examinar caracteres individuales en una cadena, extraer partes de la cadena, convertir la cadena de alguna forma (por ejemplo cambiar todos los caracteres a mayúsculas) e incluso comparar dos variables de cadena. 
+

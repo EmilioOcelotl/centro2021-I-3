@@ -1,0 +1,35 @@
+# Clase 8
+
+Premisa de esta parte del curso: hacer filtros para procesar imágenes. 
+
+Cada filtro que hagamos será una clase. 
+
+El día de hoy veremos algunos elementos extras que podemos utilizar con PImage.
+
+Continuaremos con el ejercicio que realizamos la clase pasada.
+
+Trataremos de hacer un primer filtro para la colección de filtros que usaremos.
+
+Con transformaciones podríamos agregar algunas modificaciones a la imagen que procesaremos
+
+Empezaremos a hablar de lectura y escritura de pixeles.
+
+De esta manera, nuestra imagen podrá interactuar con imagenes creadas y transformadas a partir de la lectura y escritura de pixeles. 
+
+Vamos a ver algunos objetos extras que nos servirán para transformar pixeles
+
+## PImage 
+
+El primer filtro que hicimos funciona como una máscara de transparencia
+
+## Blendmode
+
+## Primer filtro empaquetado como una clase
+
+## map 
+
+## Pixeles
+
+### createImage
+
+### El mismo ejercicio del ruido pero con pixeles
