@@ -1,16 +1,16 @@
-# Código Creativo 2021-I Tercer Semestre
-
 ![portada](https://github.com/EmilioOcelotl/centro2021-I-3/blob/master/img/malandrone222.png)
+
+# Código Creativo 2021-I Tercer Semestre
 
 Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
 
-## Fechas
+## Sesiones
 
-- [ ] [Semana 12 - 16 de Agosto](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_200727/README.md) - Clase 1.
+- [ ] [Clase 1 - Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase01/README.md)
 
-- [ ] [Semana 19 - 23 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_190823/README.md) - Clase 2.
+- [ ] [Clase 2 - Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase02/README.md)
 
-- [ ] [Semana 26 - 30 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_190830/README.md) - Clase 3.
+- [ ] [Clase 3 - Introducción a programación orientada a objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
 
 - [ ] [Semana 2 - 6 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_190906/README.md) - Clase 4.
 
