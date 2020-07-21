@@ -6,37 +6,37 @@ Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y 
 
 ## Sesiones
 
-- [ ] [Clase 1 - Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase01/README.md)
+- [ ] [Clase 01](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase01/README.md)
 
-- [ ] [Clase 2 - Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase02/README.md)
+- [ ] [Clase 02](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase02/README.md)
 
-- [ ] [Clase 3 - Introducción a programación orientada a objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
+- [ ] [Clase 03](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
 
-- [ ] [Semana 2 - 6 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_190906/README.md) - Clase 4.
+- [ ] [Clase 04](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)
 
-- [ ] [Semana 9 - 13 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_190913/README.md) - Clase 5.
+- [ ] [Clase 05](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase05/README.md)
 
-- [ ] [Semana 16 - 20 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_190920/README.md) - Clase 6. 
+- [ ] [Clase 06](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
 
-- [ ] [Semana 23 - 27 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_190927/README.md) - Clase 7.
+- [ ] [Clase 07](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase07/README.md)
 
-- [ ] [Semana 30 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_191004/README.md) - Clase 8.
+- [ ] [Clase 08](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase08/README.md)
 
-- [ ] [Semana 7 - 11 de octubre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_191011/README.md) - Clase 9.
+- [ ] [Clase 09](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase09/README.md)
 
-- [ ] [Semana 14 - 18 de octubre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_191018/README.md) - Clase 10. 
+- [ ] [Clase 10](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase10/README.md) 
 
-- [ ] Semana 21 - 25 de octubre - Clase 11. Práctica de Imagen
+- [ ] Clase 11.- Práctica de Imagen
 
-- [ ] Semana 28 de octubre - 1 de noviembre - Práctica de Imagen II
+- [ ] Clase 12.- Práctica de Imagen II
 
-- [ ] Semana 4 - 8 de noviembre - Clase 13. Introducción Audio y SC 
+- [ ] Clase 13. Introducción Audio 
 
-- [ ] [Semana 11 - 15 de noviembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_191115/README.md) - Clase 14. OSC, chat y sintetizadores
+- [ ] [Clase 14](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase14/README.md) - Clase 14. OSC, chat y sintetizadores
 
-- [ ] [Semana 18 - 22 de noviembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_191122/README.md) - Clase 15. Sonido e Imagen
+- [ ] [Clase 15](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase15/README.md) - Clase 15. Sonido e Imagen
 
-- [ ] [Semana 25 - 29 de noviembre](https://github.com/EmilioOcelotl/centro20-I_CC3/tree/master/centro3_191129/README.md)) - Clase 16. Análisis de audio
+- [ ] [Clase 16](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase16/README.md)) - Clase 16. Análisis de audio
 
 ## Evaluación 
 
@@ -44,9 +44,9 @@ Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y 
 
 - Lecturas: Pendientes 10%
 
-- Primer parcial: participación 5% y ejercicio a entregar 20% - 17 al 23 de septiembre 
+- Primer parcial: participación 5% y ejercicio a entregar 20% 
 
-- Segundo parcial: participación 5% y ejercicio a entregar 20% - 28 de octubre al 4 de noviembre
+- Segundo parcial: participación 5% y ejercicio a entregar 20% 
 
 - Tercer parcial: participación 5% y ejercicio a entregar 10% 
 
