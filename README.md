@@ -32,7 +32,7 @@ Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y 
 
 - [ ] Clase 12.- Práctica de Imagen II
 
-- [ ] [Clase 13] (https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase13/README.md)
+- [ ] [Clase 13](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase13/README.md)
 
 - [ ] [Clase 14](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase14/README.md)
 
