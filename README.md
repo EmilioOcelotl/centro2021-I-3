@@ -4,6 +4,8 @@
 
 Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
 
+
+
 ## Sesiones
 
 - [ ] [Clase 01](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase01/README.md)
@@ -30,13 +32,13 @@ Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y 
 
 - [ ] Clase 12.- Práctica de Imagen II
 
-- [ ] Clase 13. Introducción Audio 
+- [ ] [Clase 13] (https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase13/README.md)
 
-- [ ] [Clase 14](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase14/README.md) - Clase 14. OSC, chat y sintetizadores
+- [ ] [Clase 14](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase14/README.md)
 
-- [ ] [Clase 15](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase15/README.md) - Clase 15. Sonido e Imagen
+- [ ] [Clase 15](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase15/README.md)
 
-- [ ] [Clase 16](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase16/README.md)) - Clase 16. Análisis de audio
+- [ ] [Clase 16](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase16/README.md)
 
 ## Evaluación 
 
@@ -50,7 +52,7 @@ Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y 
 
 - Tercer parcial: participación 5% y ejercicio a entregar 10% 
 
-## Enlaces y lecturas sugeridas
+## Enlaces y lecturas
 
 - [What is poetic about computation?](https://poeticcomputation.info/chapters/ch.1/)
 
