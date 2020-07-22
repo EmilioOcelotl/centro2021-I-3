@@ -20,6 +20,28 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final,
 
 - [ ] [Clase 05. Práctica de programación orientada a objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
 
+- Clase 06. Matrices y vectores
+
+- Clase 07. Matrices y vectores
+
+- Clase 08. Práctica matrices y vectores
+
+- Clase 09. Manipulación de imagen fija
+
+- Clase 10. Práctica de manipulación de imagen fija
+
+- Clase 11. Trigonometría I
+
+- Clase 12. Trigonometría II
+
+- Clase 13. Práctica trigonometría
+
+- Clase 14. Ruido
+
+- Clase 15. Sonido
+
+- Clase 16. Análisis de audio
+
 <!---
 
 - [ ] [Clase 06](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
