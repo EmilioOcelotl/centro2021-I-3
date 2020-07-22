@@ -4,9 +4,9 @@
 
 Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
 
-El curso introduce a la programación orientada a objetos, el procesamiento de imagen, video y audio. Tomaremos en cuenta dos ejes para articular estos tópicos: 1) tiempo y espacio y 2) repetición y variación. 
+El curso introduce a la programación orientada a objetos, el procesamiento de imagen, video y audio. Tomaremos en cuenta tres ejes para articular estos tópicos: 1) tiempo y espacio, 2) repetición y variación y 3) abstracción. 
 
-Explicaremos cada uno de estos puntos de manera independiente. De cara al final, realizaremos un estudio que pueda presentarse como imagen/video/audio, que esté respaldado por un código que siga la lógica de la programación orientada a objetos y que pueda exhibirse. 
+Explicaremos cada uno de estos puntos de manera independiente. De cara al final del curso, realizaremos un estudio que pueda exhibirse como imagen/video/audio, respaldado por un código que se ejecuta y estructurado por la lógica de la programación orientada a objetos. 
 
 ## Sesiones
 
@@ -81,6 +81,10 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final,
 - Tercer parcial: participación 5% y ejercicio a entregar 10% 
 
 ## Enlaces y lecturas
+
+- [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
+
+- [Debugging](https://p5js.org/learn/debugging.html) 
 
 - Carpo, M. (2011). The Alphabet and the Algorithm, Cambridge, Massachusetts: The MIT Press.
 
