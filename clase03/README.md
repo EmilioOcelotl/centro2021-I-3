@@ -1,10 +1,6 @@
 # Clase 3. Introducción a programación orientada a objetos 
 
-Ejemplo ofhawc
-
-Iniciar con String 
-
-Para la próxima clase revisar detenidamente las diferencias entre funciones y objetos. 
+Objetivo: Durante esta clase y la siguiente realizaremos un ejercicio de puntillismo con Processing y veremos la forma de traducir este ejercicio a clases. 
 
 ## Paradigmas de la programación orientada a objetos
 

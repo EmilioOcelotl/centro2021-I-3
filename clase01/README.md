@@ -1,13 +1,15 @@
 
 # Clase 1 | Repaso
 
-Presentación.
+Objetivo del repaso: Realizar un ejercicio sencillo de repetición y variación de formas con iteraciones y push/pop matrix. 
 
-Fechas, recursos e información -> [https://github.com/EmilioOcelotl/centro20-I_CC3](https://github.com/EmilioOcelotl/centro20-I_CC3)
+- Presentación.
 
-¿Cómo funciona este documento? 
+- Fechas, entregas recursos e información.
 
-[Type and Form sculpture](https://devart.withgoogle.com/#/catalogued/6682104213536768)
+- ¿Muestra final en línea?
+
+- Estructura del repositorio y forma de trabajo 
 
 ## Ejemplos de proyectos creativos cuyo fundamento es la programación
 
@@ -21,9 +23,7 @@ Seguimiento de hashtags. Ejercicios que las personas suben a las redes. No neces
 
 [Hydra Patterns](https://twitter.com/hydra_patterns)
 
-## Evaluación
-
-Introducción breve -> [https://github.com/EmilioOcelotl/centro20-I_CC2/blob/master/centro2_190816/README.md](https://github.com/EmilioOcelotl/centro20-I_CC2/blob/master/centro2_190816)
+## Repaso 
 
 Ejecución de Processing, PDE, sketches. 
 

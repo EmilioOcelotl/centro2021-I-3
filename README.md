@@ -4,19 +4,21 @@
 
 Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
 
+El curso introduce a la programación orientada a objetos, el procesamiento de imagen, video y audio. Tomaremos en cuenta dos ejes para articular estos tópicos: 1) tiempo y espacio y 2) repetición y variación. 
 
+Explicaremos cada uno de estos puntos de manera independiente. De cara al final, realizaremos un estudio que pueda presentarse como imagen/video/audio, que esté respaldado por un código que siga la lógica de la programación orientada a objetos y que pueda exhibirse. 
 
 ## Sesiones
 
-- [ ] [Clase 01](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase01/README.md)
+- [ ] [Clase 01. Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase01/README.md)
 
-- [ ] [Clase 02](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase02/README.md)
+- [ ] [Clase 02. Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase02/README.md)
 
-- [ ] [Clase 03](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
+- [ ] [Clase 03. Introducción a la Programación Orientada a Objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
 
-- [ ] [Clase 04](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)
+- [ ] [Clase 04. Programación Orientada a Objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)
 
-- [ ] [Clase 05](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase05/README.md)
+- [ ] [Clase 05. Práctica de programación orientada a objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase05/README.md)
 
 - [ ] [Clase 06](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
 
@@ -54,9 +56,17 @@ Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y 
 
 ## Enlaces y lecturas
 
+- Carpo, M. (2011). The Alphabet and the Algorithm, Cambridge, Massachusetts: The MIT Press.
+
+- Carpo, M. (2013) The Digital Turn in Architecture, 1992-2012. AD Reader, John Wiley & Sons. 
+
 - [What is poetic about computation?](https://poeticcomputation.info/chapters/ch.1/)
 
 - [DevArt. Art made with code](https://devart.withgoogle.com/)
+
+## Repositorios y entradas específicas
+
+- [Design Research](https://monoskop.org/Design_research)
 
 ## Referencias 
 
