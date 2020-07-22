@@ -18,7 +18,9 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final,
 
 - [ ] [Clase 04. Programación Orientada a Objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)
 
-- [ ] [Clase 05. Práctica de programación orientada a objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase05/README.md)
+- [ ] [Clase 05. Práctica de programación orientada a objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
+
+<!---
 
 - [ ] [Clase 06](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
 
@@ -41,6 +43,8 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final,
 - [ ] [Clase 15](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase15/README.md)
 
 - [ ] [Clase 16](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase16/README.md)
+
+--->
 
 ## Evaluación 
 
