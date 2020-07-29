@@ -12,7 +12,11 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
 - [ ] [Clase 01. Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase01/README.md)
 
+  - [Código de la primera clase](https://gist.github.com/EmilioOcelotl/36c77d46144d281170964336b70188cf) 
+
 - [ ] [Clase 02. Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase02/README.md)
+
+  - Revisar [la siguiente liga](https://hubs.mozilla.com/gjt3Ya4/the-dome-uxr-zone)
 
 - [ ] [Clase 03. Introducción a la Programación Orientada a Objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
 
