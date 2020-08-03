@@ -14,11 +14,19 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - [Código de la primera clase](https://gist.github.com/EmilioOcelotl/36c77d46144d281170964336b70188cf) 
 
-- [ ] [Clase 02. Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase02/README.md)
+- [x] [Clase 02. Repaso](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase02/README.md)
 
   - Revisar [la siguiente liga](https://hubs.mozilla.com/gjt3Ya4/the-dome-uxr-zone)
+  
+  - [Código de la segunda clase](]https://gist.github.com/EmilioOcelotl/e45d7ba3285889f798ab7820e4b0808a)
 
-- [ ] [Clase 03. Introducción a la Programación Orientada a Objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
+- [ ] [Clase 03. Pixeles y manipulación de imagen fija](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
+
+  - Discusión de la lectura: [Hello World](http://avant.org/project/hello-world/)
+
+  - Matriz de objetos como si fueran pixeles. Objetivo > Explorar una clase sencilla. 
+
+<!--
 
 - [ ] [Clase 04. Programación Orientada a Objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)
 
@@ -45,6 +53,8 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 - Clase 15. Sonido
 
 - Clase 16. Análisis de audio
+
+-->
 
 <!---
 
