@@ -24,8 +24,6 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Discusión de la lectura: [Hello World](http://avant.org/project/hello-world/)
 
-  - Matriz de objetos como si fueran pixeles. Objetivo > Explorar una clase sencilla. 
-
 <!--
 
 - [ ] [Clase 04. Programación Orientada a Objetos](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)

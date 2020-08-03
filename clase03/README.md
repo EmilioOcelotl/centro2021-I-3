@@ -1,5 +1,9 @@
 # Clase 3
 
+Objetivo: Hablar de la imágen en el conexto digital, explorar matrices de objetos como si fueran pixeles, cargar imágenes con Processing y manipularlas de manera sencilla.  
+
+Para el futuro: "empaquetar" una clase que manipule una imagen. Propuesta: puntillismo iterado. 
+
 ## Imágenes en el contexto digital
 
 El fundamento de las fotografías y las imágenes digitales es distinta a las analógicas. 
