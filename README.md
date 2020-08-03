@@ -18,7 +18,7 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Revisar [la siguiente liga](https://hubs.mozilla.com/gjt3Ya4/the-dome-uxr-zone)
   
-  - [Código de la segunda clase](]https://gist.github.com/EmilioOcelotl/e45d7ba3285889f798ab7820e4b0808a)
+  - [Código de la segunda clase](https://gist.github.com/EmilioOcelotl/e45d7ba3285889f798ab7820e4b0808a)
 
 - [ ] [Clase 03. Pixeles y manipulación de imagen fija](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
 
