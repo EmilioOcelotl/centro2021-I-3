@@ -20,9 +20,16 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
   
   - [Código de la segunda clase](https://gist.github.com/EmilioOcelotl/e45d7ba3285889f798ab7820e4b0808a)
 
-- [ ] [Clase 03. Pixeles y manipulación de imagen fija](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
+- [x] [Clase 03. Pixeles y manipulación de imagen sintética](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase03/README.md)
 
   - Discusión de la lectura: [Hello World](http://avant.org/project/hello-world/)
+
+  - [Primer código de la tercera clase](https://gist.github.com/EmilioOcelotl/c8e2ffcd12107ef990a2f2f4d58de57e) 
+
+  - [Segundo código de la tercera clase](https://gist.github.com/EmilioOcelotl/1bef74d8e4a84fb5ad9ae45b1f4c685c)
+
+- [ ] [Clase 04. Pixeles y manipulación de imagen fija II](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)
+
 
 <!--
 
@@ -80,19 +87,9 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
 --->
 
-## Evaluación 
-
-- Carpeta de trabajos finales: selección de al menos 5 trabajos realizados durante el semestre con sus respectivas variaciones 25%
-
-- Lecturas: Pendientes 10%
-
-- Primer parcial: participación 5% y ejercicio a entregar 20% 
-
-- Segundo parcial: participación 5% y ejercicio a entregar 20% 
-
-- Tercer parcial: participación 5% y ejercicio a entregar 10% 
-
 ## Enlaces y lecturas
+
+- [Images and Pixels - Daniel Shiffman](https://www.processing.org/tutorials/pixels/)
 
 - [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
 
@@ -105,6 +102,18 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 - [What is poetic about computation?](https://poeticcomputation.info/chapters/ch.1/)
 
 - [DevArt. Art made with code](https://devart.withgoogle.com/)
+
+## Evaluación 
+
+- Carpeta de trabajos finales: selección de al menos 5 trabajos realizados durante el semestre con sus respectivas variaciones 25%
+
+- Lecturas: Pendientes 10%
+
+- Primer parcial: participación 5% y ejercicio a entregar 20% 
+
+- Segundo parcial: participación 5% y ejercicio a entregar 20% 
+
+- Tercer parcial: participación 5% y ejercicio a entregar 10% 
 
 ## Repositorios y entradas específicas
 

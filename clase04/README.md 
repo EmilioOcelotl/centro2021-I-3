@@ -1,0 +1,65 @@
+### Despliegue de imágenes
+
+Processing puede cargar imágenes, desplegarlas en la pantalla, cambiar su tamaño, posición y opacidad. 
+
+Para cargar el tipo de datos de las imágenes es necesario invocar PImage. 
+
+De la misma manera en que los enteros son almacenados en variables con `int`, y los valores `true` y `false` son almacenados en `boolean`, las imágenes pueden almacenarse en variables de PImage. 
+
+La idea es introducir el funcionamiento de la clase PImage, hablar un poco de su diferencia con funciones como rect() ellipse().
+
+También es necesario recordar la forma de guardar archivos.
+
+Vamos a utilizar un código base. 
+
+Antes de desplegar una imagen primero es necesario cargarlas con la función `loadImage()`
+
+Es necesario agregar la extensión del formato. 
+
+Si una ruta no es especificada, es necesario colocar la imagen en la misma carpeta del proyecto. 
+
+```java
+image(nombre, x, y);
+image(nombre, x, y, width, height);
+```
+
+Los parámetros de `image()` determinan la imagen que se va a dibujar, su posición y tamaño. 
+
+```java
+size(960, 540);
+PImage img;
+img = loadImage("screen001.png");
+image(img, 0, 0, img.width/2, img.height/2);
+```
+
+La función `tint()` puede colorear las imagenes. Es una función que funciona de manera similar a `fill()` y `stroke()` pero afecta solamente a las imágenes. 
+
+Sigue la misma sintaxis para colorear que `fill()` y `stroke()`, esto es, todas las imagenes que se dibujen despues de correr `tint()` se teñirán del color especificado en los parámetros. 
+
+Esto no tiene efectos permantentes en las imágenes, si corremos `noTint()` entonces la coloración de todas las imágenes desaparecerá. 
+
+```java
+size(960, 540);
+PImage img;
+img = loadImage("screen001.png");
+tint(100, 255, 100); 
+image(img, 0, 0, img.width/2, img.height/2);
+```
+También es posible aplicar transparencias y teñido a las imágenes. 
+
+```java
+size(960, 540);
+PImage img;
+img = loadImage("screen001.png");
+background(255);
+//tint(255, 100); 
+image(img, 0, 0, img.width/2, img.height/2);
+tint(202, 0, 255, 104); 
+image(img, -40, -40, img.width/2, img.height/2);
+tint(255, 201, 0, 104); 
+image(img, 40, 40, img.width/2, img.height/2);
+```
+
+Con teñido, transparencias y modificación del color para teñir una imagen podemos tener los primeros pasos para realizar nuestra clase que modifique imagenes. 
+
+Ejercicio extra: dibujar una imagen con transparencia y algún color en el teñido y agregar repeticiones de desplazamiento con for()` en vez de hacerlas mano (como en el ejemplo anterior)
