@@ -30,6 +30,7 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
 - [ ] [Clase 04. Pixeles y manipulación de imagen fija II](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)
 
+  - [Código de la cuarta clase](https://gist.github.com/EmilioOcelotl/b6990accb04cf41090c6807ec86103f1)
 
 <!--
 
