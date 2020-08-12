@@ -28,19 +28,24 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - [Segundo código de la tercera clase](https://gist.github.com/EmilioOcelotl/1bef74d8e4a84fb5ad9ae45b1f4c685c)
 
-- [x] [Clase 04. Pixeles y manipulación de imagen fija II](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase04/README.md)
+- [x] Clase 04. Pixeles y manipulación de imagen fija II
 
   - [Código de la cuarta clase](https://gist.github.com/EmilioOcelotl/b6990accb04cf41090c6807ec86103f1)
 
-- [ ] Clase 05. Práctica transformación de imagen fija
+- [x] Clase 05. Práctica transformación de imagen fija
 
   - [Selector de color](https://gist.github.com/EmilioOcelotl/ba87c6e50a28c84611dfa70450a809cd) 
 
   - Variaciones del ejercicio puntillismo y entrega de imágenes
 
+- [ ] [Clase 06. Pixeles](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
+
+  - [Código inicial para la clase 6](https://gist.github.com/EmilioOcelotl/512b9cf603276fb1c0b491a825e79a02) 
+
   - Clases y discusión sobre el enfoque del curso - patrones y pixeles o trabajo con imágenes fijas y trazos
 
   - Para dentro de dos clases discutir [ON BROADWAY](http://www.on-broadway.nyc/) 
+
 
 <!--
 
