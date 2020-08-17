@@ -38,13 +38,21 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Variaciones del ejercicio puntillismo y entrega de imágenes
 
-- [ ] [Clase 06. Pixeles](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
+- [x] [Clase 06. Pixeles](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase06/README.md)
 
   - [Código inicial para la clase 6](https://gist.github.com/EmilioOcelotl/512b9cf603276fb1c0b491a825e79a02) 
 
   - Clases y discusión sobre el enfoque del curso - patrones y pixeles o trabajo con imágenes fijas y trazos
 
-  - Para dentro de dos clases discutir [ON BROADWAY](http://www.on-broadway.nyc/) 
+  - [Código de arreglos](https://gist.github.com/EmilioOcelotl/590c09da43bd9986453e9796ad646a3c)
+
+- [ ][Clase 07. Pixeles fuera de Processing](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase07/README.md)
+
+  - Pixels en Processing 2da parte.
+
+  - Glitch fuera de Processing (segunda entrega, para esta clase o la siguiente)
+
+  - Recordatorio. Para la siguiente clase discutir [ON BROADWAY](http://www.on-broadway.nyc/)
 
 
 <!--
