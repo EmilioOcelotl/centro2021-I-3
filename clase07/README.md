@@ -1,9 +1,5 @@
 # Clase 9
 
-En esta clase vamos a ejercitar la manipulación de imágenes con Processing. 
-
-En específico, trataremos con pixeles e imágenes previamente fijadas. 
-
 Para entender un poco qué pasa con la manipulación de imágenes a través de pixeles, primero vamos a hacer una pequeña prueba.
 
 Por favor, envíen el resultado de estas manipulaciones por correo, serán consideradas para la segunda evaluación. 
@@ -28,13 +24,11 @@ Un ejemplo de glitch-art y video relativamente controlado:
 
 Consiste en manipular un archivo multimedia de cierto formato, utilizando software diseñado para editar archivos de otro tipo o formato. 
 
-El resultado de esta manipulación es una distorsión que puede incluirse dentro de ala categoría, glitch art. 
+El resultado de esta manipulación es una distorsión que puede incluirse dentro de la categoría glitch art. 
 
-Para esta ocasión vamos a utilizar un programa de audio para manipular imagen.
+En esta ocasión vamos a utilizar un programa de audio para manipular imagen.
 
-Si bien se pueden utilizar otros programas como adobe audition, en esta ocasión usaremos Audacity.
-
-Audacity es software libre y puede descargarse para cualquier sistema operativo. Se puede descargar en: 
+Utilizaremos Audacity. Este programa es software libre y puede descargarse para cualquier sistema operativo. Se puede descargar en: 
 
 [Audacity](https://www.audacityteam.org/download/)
 
@@ -42,7 +36,7 @@ Una vez que tenemos Audacity instalado en nuestra computadora, tenemos que reali
 
 ### Paso 1: seleccionar una imagen y convertirla
 
-El primer paso consiste en seleccionar una imagen. Para el databending es necesario utilizar formatos sin compresión. Entonces, vamos a seleccionar una imagen de internet o de nuestra computadora y la convertiremos a .bmp o .tif. Para realizar esto utilizaremos algún programa como Photoshop o, siguiendo en el espíritu del software libre, GIMP. 
+El primer paso consiste en seleccionar una imagen. Para el databending es necesario utilizar formatos sin compresión. Entonces, vamos a seleccionar una imagen de internet o de nuestra computadora y la convertiremos a .bmp. Para realizar esto utilizaremos algún programa como Photoshop o GIMP. 
 
 También es posible utilizar convertidores en línea
 
@@ -54,7 +48,7 @@ Una vez que tenemos una imagen en un formato sin compresión vamos a abrirla con
 
 Para abrir una imagen con Audacity, debemos abrirla con File > Import > Raw Data. Posteriormente a esto, debemos elegir el archivo en cuestión. 
 
-Después nos saldrá una ventana que debemos llenar con la siguiente información: 
+Después saldrá una ventana que debemos llenar con la siguiente información: 
 
 - Encoding: U-Law
 
@@ -62,11 +56,13 @@ Después nos saldrá una ventana que debemos llenar con la siguiente informació
 
 - Channels: 1 Channel (Mono) 
 
+![infoGlitch](https://www.hellocatfood.com/wp-content/uploads/2009/11/screenshot_005.png)
+
 Una vez realizado esto, damos click en import. 
 
 ### Imagen como sonido
 
-Presionen play si se atreven. Lo que estamos haciendo es forzar a Audacity a leer archivos de imagen como si fueran archivos de audio. 
+Presionar play para escuchar la lectura. Lo que estamos haciendo es forzar a Audacity a leer archivos de imagen como si fueran archivos de audio. 
 
 Nota importante: Toda la manipulación que hagamos a continuación debe realizarse cinco segundos después y antes de que inicia el archivo. Esto debido a que el archivo tiene headers o secuencias de información al inicio y al final del archivo que le indican a la computadora cómo leer el archivo (y otras cosas, como los metadatos). 
 
@@ -90,7 +86,9 @@ Tenemos que cambiar las opciones para que queden de la siguiente manera:
 
 - Encoding: U-Law 
 
-Damos guardar no sin antes asegurarnos que la extensión sea la misma que la del archivo original, por ejemplo .bmp. 
+![infoGlitch2](https://www.hellocatfood.com/wp-content/uploads/2009/11/screenshot_008.png)
+
+Damos guardar, antes, asegurarnos que la extensión sea la misma que la del archivo original, por ejemplo .bmp. 
 
 Ignoramos la advertencia que arroja Audacity y abrimos el archivo para ver el resultado. 
 
@@ -121,9 +119,3 @@ Entonces lo que realizaremos será lo siguiente:
 - Leer una imagen
 
 - Manipular los colores de la imagen con un contadores y módulos. Limitar la evolución del desfase de color. 
-
-## Recursos
-
-La práctica de manipulación de imagen con Audacity está basada en el artículo de Antonio Roberts aka hellocatfood-
-
-[Databending using Audacity](https://www.hellocatfood.com/databending-using-audacity/) 
