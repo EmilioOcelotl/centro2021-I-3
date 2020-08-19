@@ -40,7 +40,7 @@ El primer paso consiste en seleccionar una imagen. Para el databending es necesa
 
 También es posible utilizar convertidores en línea
 
-[Convertidor en línea](https://www.audacityteam.org/download/)
+[Convertidor en línea](https://imagen.online-convert.com/es/convertir-a-bmp)
 
 Una vez que tenemos una imagen en un formato sin compresión vamos a abrirla con Audacity
 

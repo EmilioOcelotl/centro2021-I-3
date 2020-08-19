@@ -46,15 +46,17 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - [Código de arreglos](https://gist.github.com/EmilioOcelotl/590c09da43bd9986453e9796ad646a3c)
 
-- [ ] [Clase 07. Pixeles fuera de Processing (audio)](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase07/README.md)
+- [x] Clase 07.Pixeles en Processing
 
   - Pixels en Processing 2da parte.
 
-  - Discusión: ¿Qué es un glitch?	
+- [ ] [Clase 08. Pixeles fuera de Processing (audio)](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase07/README.md)
+
+  - Recordatorio. Discutir [ON BROADWAY](http://www.on-broadway.nyc/)
+
+  - ¿Qué es un glitch?	
 
   - Glitch fuera de Processing (segunda entrega, para esta clase o la siguiente)
-
-  - Recordatorio. Para la siguiente clase discutir [ON BROADWAY](http://www.on-broadway.nyc/)
 
 
 <!--
