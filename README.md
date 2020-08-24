@@ -58,9 +58,11 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Glitch fuera de Processing (segunda entrega, para esta clase o la siguiente)
 
-- [ ] [Clase 09. Más pixeles](https://gist.github.com/EmilioOcelotl/64d1e404fbd2a12459c9d50654667723)
+- [ ] Clase 09. Más pixeles
 
-  - Más pixeles
+  - Mitad del curso. Intereses y comentarios. 
+
+  - [Más pixeles](https://gist.github.com/EmilioOcelotl/64d1e404fbd2a12459c9d50654667723)
 
   - Screenshot de avances
 
