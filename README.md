@@ -50,7 +50,7 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Pixels en Processing 2da parte.
 
-- [ ] [Clase 08. Pixeles fuera de Processing (audio)](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase07/README.md)
+- [x] [Clase 08. Pixeles fuera de Processing (audio)](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase07/README.md)
 
   - Recordatorio. Discutir [ON BROADWAY](http://www.on-broadway.nyc/)
 
@@ -58,6 +58,11 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Glitch fuera de Processing (segunda entrega, para esta clase o la siguiente)
 
+- [ ] [Clase 09. Más pixeles](https://gist.github.com/EmilioOcelotl/64d1e404fbd2a12459c9d50654667723)
+
+  - Más pixeles
+
+  - Screenshot de avances
 
 <!--
 
