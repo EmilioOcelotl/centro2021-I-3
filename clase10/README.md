@@ -1,0 +1,36 @@
+# Programación orientada objetos
+
+- Definir los distintos elementos que componen un programa en Processing:
+
+```java
+
+// variables 
+
+void setup(){
+}
+
+void draw(){
+}
+```
+
+En este programa podríamos tener otros elementos. Esto nos sirve para tener un código mucho más legible y diferenciado.
+
+Por ejemplo, en el programa que estuvimos trabajando en clases pasadas, podríamos diferenciar la parte que dibuja de la parte de control.
+
+Antes de hablar de programación orientada a objetos y a la construcción de clases vamos a hablar de funciones.
+
+Una función podría ser, por ejemplo rect() o ellipse() que tienen parámetros o o argumentos (x, y, w, h).
+
+Son funciones que ya fueron definidas por alguien más.
+
+Para definir una función debemos tener en cuenta la siguiente sintaxis:
+
+```java
+returnType name ( _ , _ , _ ){
+
+}
+```
+
+La definición de funciones no declaradas previamente puede realizarse en cualquier parte pero por convención se escriben al final del programa.
+
+   

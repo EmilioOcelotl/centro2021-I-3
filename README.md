@@ -58,13 +58,21 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Glitch fuera de Processing (segunda entrega, para esta clase o la siguiente)
 
-- [ ] Clase 09. Más pixeles
+- [x] Clase 09. Más pixeles
 
   - Mitad del curso. Intereses y comentarios. 
 
   - [Más pixeles](https://gist.github.com/EmilioOcelotl/64d1e404fbd2a12459c9d50654667723)
   
   - Screenshot de avances
+
+- [ ] Clase 10. Funciones y modularidad.
+
+  - Usaremos el mismo código de la clase pasada.
+
+  - Recordatorio: Grabar versiones estables del código cada cierto tiempo
+
+  - Lectura para la siguiente sesión: [Debugging](https://p5js.org/learn/debugging.html) 
 
 <!--
 
@@ -124,7 +132,7 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
 ## Enlaces y lecturas
 
-- [How Not To Be Seen: A Fucking Didactic Educational .MOV File - Hito Steyerl](https://gist.github.com/EmilioOcelotl/64d1e404fbd2a12459c9d50654667723)
+- [How Not To Be Seen: A Fucking Didactic Educational .MOV File - Hito Steyerl](https://www.youtube.com/watch?v=LE3RlrVEyuo&t=431s)
 
 - [Databending using Audacity- hellocatfood](https://www.hellocatfood.com/databending-using-audacity/)
 
