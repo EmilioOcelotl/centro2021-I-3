@@ -66,13 +66,19 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
   
   - Screenshot de avances
 
-- [ ] Clase 10. Funciones y modularidad.
+- [x] Clase 10. Funciones y modularidad.
 
   - Usaremos el mismo código de la clase pasada.
 
   - Recordatorio: Grabar versiones estables del código cada cierto tiempo
 
-  - Lectura para la siguiente sesión: [Debugging](https://p5js.org/learn/debugging.html) 
+- [ ] Clase 11. Funciones y composición.
+
+  - Discusión: [Debugging](https://p5js.org/learn/debugging.html) 
+
+  - Funciones en el [código](https://gist.github.com/EmilioOcelotl/48f9e6661f951dd17a1022e732933cf1) que hemos trabajado. Más adelante cambiamos a clases. 
+
+  - Audio 
 
 <!--
 
@@ -131,6 +137,8 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 --->
 
 ## Enlaces y lecturas
+
+- [Sound - R. Luke DuBois and Wilm Thoben](https://processing.org/tutorials/sound/)  
 
 - [How Not To Be Seen: A Fucking Didactic Educational .MOV File - Hito Steyerl](https://www.youtube.com/watch?v=LE3RlrVEyuo&t=431s)
 
