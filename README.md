@@ -80,6 +80,8 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
    
 - [ ] Clase 12. [Audio](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase12/README.md)
 
+  - (Código completo)[https://gist.github.com/EmilioOcelotl/30aa674f7621df0444dca24127be25d6] de la clase pasada. 
+
   - Audio digital. Síntesis y material concreto
 
   - Reproducción de muestras de [audio](https://gist.github.com/EmilioOcelotl/c13d5f4caf6b6deaed3121b74187e739). Como fondo y como evento. 
