@@ -66,19 +66,27 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
   
   - Screenshot de avances
 
-- [x] Clase 10. Funciones y modularidad.
+- [x] [Clase 10. Funciones y modularidad.](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase10/README.md)
 
   - Usaremos el mismo código de la clase pasada.
 
   - Recordatorio: Grabar versiones estables del código cada cierto tiempo
 
-- [ ] Clase 11. Funciones y composición.
+- [x] Clase 11. Funciones y composición.
 
   - Discusión: [Debugging](https://p5js.org/learn/debugging.html) 
 
   - Funciones en el [código](https://gist.github.com/EmilioOcelotl/48f9e6661f951dd17a1022e732933cf1) que hemos trabajado. Más adelante cambiamos a clases. 
+   
+   - [ ] Clase 12. [Audio](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase12/README.md)
 
-  - [Audio](https://gist.github.com/EmilioOcelotl/c13d5f4caf6b6deaed3121b74187e739) 
+  - Audio digital.
+
+  - Síntesis y material concreto
+
+  - Reproducción de muestras de [audio](https://gist.github.com/EmilioOcelotl/c13d5f4caf6b6deaed3121b74187e739) en Processing.
+
+  - Relación audiovisual, condicionales y contadores. 
 
 <!--
 
