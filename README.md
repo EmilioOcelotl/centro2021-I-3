@@ -78,11 +78,9 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Funciones en el [código](https://gist.github.com/EmilioOcelotl/48f9e6661f951dd17a1022e732933cf1) que hemos trabajado. Más adelante cambiamos a clases. 
    
-   - [ ] Clase 12. [Audio](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase12/README.md)
+- [ ] Clase 12. [Audio](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase12/README.md)
 
-  - Audio digital.
-
-  - Síntesis y material concreto
+  - Audio digital. Síntesis y material concreto
 
   - Reproducción de muestras de [audio](https://gist.github.com/EmilioOcelotl/c13d5f4caf6b6deaed3121b74187e739) en Processing.
 
