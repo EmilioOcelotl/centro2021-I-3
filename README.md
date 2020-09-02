@@ -82,7 +82,7 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Audio digital. Síntesis y material concreto
 
-  - Reproducción de muestras de [audio](https://gist.github.com/EmilioOcelotl/c13d5f4caf6b6deaed3121b74187e739) en Processing.
+  - Reproducción de muestras de [audio](https://gist.github.com/EmilioOcelotl/c13d5f4caf6b6deaed3121b74187e739). Como fondo y como evento. 
 
   - Relación audiovisual, condicionales y contadores. 
 
