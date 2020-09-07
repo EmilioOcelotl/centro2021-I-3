@@ -78,7 +78,7 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Funciones en el [código](https://gist.github.com/EmilioOcelotl/48f9e6661f951dd17a1022e732933cf1) que hemos trabajado. Más adelante cambiamos a clases. 
    
-- [ ] Clase 12. [Audio](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase12/README.md)
+- [x] Clase 12. [Audio](https://github.com/EmilioOcelotl/centro2021-I-3/tree/master/clase12/README.md)
 
   - [Código completo](https://gist.github.com/EmilioOcelotl/30aa674f7621df0444dca24127be25d6) de la clase pasada. 
 
@@ -88,7 +88,15 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Relación audiovisual, condicionales y contadores.
 
-  - [Audio de prueba](https://drive.google.com/file/d/12bLH4UyAiVPKRbjvennDP-kbXCqAoTAb/view?usp=sharing) 
+- [ ] Clase 13. Audio II
+
+  - Gitch en música y audio. [Ejemplo](https://www.youtube.com/watch?v=PWFFiSTZENM)
+
+  - De manera general: Incorprar audio al código que hemos trabajado.
+
+  - Establecer algún tipo de comportamiento con mouseX, mouseY y mousePressed
+
+  - Utilizar if() y contadores para detonar eventos cada cierto tiempo. 
 
 <!--
 
