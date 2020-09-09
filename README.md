@@ -88,15 +88,25 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Relación audiovisual, condicionales y contadores.
 
-- [ ] Clase 13. Audio II
+- [x] Clase 13. Audio II
 
   - Gitch en música y audio. [Ejemplo](https://www.youtube.com/watch?v=PWFFiSTZENM)
-
+  
   - De manera general: Incorprar audio al código que hemos trabajado.
 
   - Establecer algún tipo de comportamiento con mouseX, mouseY y mousePressed
 
-  - Utilizar if() y contadores para detonar eventos cada cierto tiempo. 
+  - Utilizar if() y contadores para detonar eventos cada cierto tiempo.
+
+- [ ] Clase 14. Audio III
+
+  - Repaso: audio y reproducción de muestras. [Código](https://gist.github.com/EmilioOcelotl/1c8be9c92327ff3c0993dc0ac2c66116) 
+
+  - if()  contadores, múltiples audios keyPressed, booleanos.
+
+  - Osciladores y síntesis de audio
+
+  - Entrega final > código en brightspace
 
 <!--
 
