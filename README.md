@@ -98,7 +98,7 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Utilizar if() y contadores para detonar eventos cada cierto tiempo.
 
-- [ ] Clase 14. Audio III
+- [x] Clase 14. Audio III
 
   - Repaso: audio y reproducción de muestras. [Código](https://gist.github.com/EmilioOcelotl/1c8be9c92327ff3c0993dc0ac2c66116) 
 
@@ -107,6 +107,9 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
   - Osciladores y síntesis de audio
 
   - Entrega final > código en brightspace
+
+- [ ] Clase 15. Dudas y comentarios sobre entrega final. 
+
 
 <!--
 
