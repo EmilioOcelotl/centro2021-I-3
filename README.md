@@ -108,7 +108,11 @@ Explicaremos cada uno de estos puntos de manera independiente. De cara al final 
 
   - Entrega final > código en brightspace
 
-- [ ] Clase 15. Dudas y comentarios sobre entrega final. 
+- [ ] Clase 15. Audio IV
+
+  - [Osciladores](https://gist.github.com/EmilioOcelotl/66b39ebc6eae6657d7d50e0aa0acd93b)
+
+  - Dudas y comentarios sobre entrega final.
 
 
 <!--
